@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">homework6</string>
+
+    <string name="picName1">Starry night</string>
+    <string name="picArtist1">Vincent van Gogh(1889)</string>
+
+    <string name="picName2">Girl with a Pearl Earring</string>
+    <string name="picArtist2">Johannes Vermeer(1665)</string>
+
+    <string name="picName3">Mona Lisa</string>
+    <string name="picArtist3">Leonardo da Vinci(1517)</string>
+
+    <string name="picName4">The Birth of Venus</string>
+    <string name="picArtist4">Sandro Botticelli(1486)</string>
+
+    <string name="picName5">Summer Evening on Skagens Southern Beach</string>
+    <string name="picArtist5">P.S. Krøyer(1893)</string>
+</resources>
